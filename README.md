@@ -7,8 +7,8 @@ Rules:
 ## Code
 
 Cell class:
-![CELL_CLASS](./cell.png)
 
+![CELL_CLASS](./cell.png)
 this class has two methods 'discover' and 'cycle'. 'discover' method will count how many alive heighbors it has. 'cycle' - method will execute verdict which controled by level_up argument
 
 
